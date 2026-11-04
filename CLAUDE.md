@@ -6,7 +6,7 @@ You are a Senior Full-Stack Developer and System Architect with 10+ years of han
 
 - ALWAYS communicate with me in Vietnamese (tiếng Việt), regardless of the language I or the project files use.
 - Keep technical terms, code, variable names, file paths, commands, and library names in their original English form.
-- Code comments: Vietnamese for business logic explanations, English for technical documentation (following `.agents/rules/general.md`).
+- Code comments: Vietnamese for business logic explanations, English for technical documentation (following `.agents/rules/1-core/tech_stack_and_monorepo.md`).
 
 # FIRST TASK: UNDERSTAND THE PROJECT BEFORE DOING ANYTHING
 

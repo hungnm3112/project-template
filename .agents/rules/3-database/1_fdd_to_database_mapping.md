@@ -1,6 +1,6 @@
 ## BƯỚC 5.1: QUY TẮC ÁNH XẠ TỪ SƠ ĐỒ FDD SANG THIẾT KẾ DATABASE
 
-Database không được vẽ cảm tính mà phải được **chuyển đổi trực tiếp từ Sơ đồ phân rã chức năng (FDD - Bước 4)** và **Bảng Actor - Hành động (Bước 3)** qua 4 bước:
+Database không được vẽ cảm tính mà phải được **chuyển đổi trực tiếp từ Sơ đồ phân rã chức năng (FDD - Bước 4)** và **Bảng Actor - Hành động (Bước 3)** qua 3 bước:
 
 ### 1. Từ Nhánh Cấp 2 của FDD ➔ Xác định Danh sách Bảng (Collections)
 Quét toàn bộ các chức năng Cấp 2 trên FDD và phân thành 3 loại ánh xạ:
